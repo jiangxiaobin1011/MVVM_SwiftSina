@@ -10,6 +10,8 @@ import UIKit
 
 
 /**
+ 
+ 查看代码写的行数
  find . -name "*.swift" | xargs wc -l
  
  
