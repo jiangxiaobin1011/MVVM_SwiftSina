@@ -38,7 +38,6 @@ class WBDemoViewController: WBBaseViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setupUI()
-        // Do any additional setup after loading the view.
     }
     
     
@@ -48,7 +47,6 @@ class WBDemoViewController: WBBaseViewController {
         let vc = WBDemoViewController()
         navigationController?.pushViewController(vc, animated: true)
         
-        print("")
     }
     
 

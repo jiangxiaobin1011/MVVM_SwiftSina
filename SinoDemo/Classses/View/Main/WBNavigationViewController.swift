@@ -16,7 +16,6 @@ class WBNavigationViewController: UINavigationController , UINavigationBarDelega
         
         navigationBar.isHidden = true
         
-        // Do any additional setup after loading the view.
     }
     
     override func pushViewController(_ viewController: UIViewController, animated: Bool) {
